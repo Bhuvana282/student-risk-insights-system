@@ -16,15 +16,6 @@ Educational institutions often fail to identify weak-performing students early. 
 - Node.js (Express)
 - JSON data processing
 
-## 📂 Project Structure
-student-risk-insights-system/
-├── index.html
-├── dashboard.html
-├── style.css
-├── script.js
-├── server.js
-└── README.md
-
 ## ▶️ How to Run
 1. Install Node.js
 2. Run:node server.js
